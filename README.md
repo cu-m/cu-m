@@ -7,6 +7,12 @@ hey, im nexus. im a 16yo femboy dev.
   - Python (ok at it)
   - TypeScript (its retarded)
 
+# funnys
+<p align = "center">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cu-m&layout=compact&theme=dark"/>
+    <img src = "https://github-readme-stats.vercel.app/api?username=cu-m&show_icons=true&theme=dracula"/>
+</p>
+
 # discord
   - nexus#0101 - 2019/current
   - nexus#7782 - 2015/termed
