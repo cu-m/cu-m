@@ -11,3 +11,5 @@ hey, im nexus. im a 16yo femboy dev.
   - nexus#0101 - 2019/current
   - nexus#7782 - 2015/termed
   - nz#9914 - 2017 alt/termed
+
+# ⬇️ Cheat Engine(not mine, i js think its a cool peice of software)
