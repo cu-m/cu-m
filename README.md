@@ -1,16 +1,13 @@
-### Hi there 👋
+# Into
+hey, im nexus. im a 16yo femboy dev.
 
-<!--
-**cu-m/cu-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# langs
+  - Lua (not the best)
+  - Java (not good at it)
+  - Python (ok at it)
+  - TypeScript (its retarded)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# discord
+  - nexus#0101 - 2019/current
+  - nexus#7782 - 2015/termed
+  - nz#9914 - 2017 alt/termed
