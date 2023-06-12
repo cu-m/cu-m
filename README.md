@@ -1,5 +1,5 @@
-# Into
-hey, im nexus. im a 16yo femboy dev.
+# Info
+  hey, im nexus. im a 16yo femboy dev.
 
 # langs
   - Lua (not the best)
