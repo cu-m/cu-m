@@ -14,7 +14,7 @@
 </p>
 
 # discord
-  - nexus#0101 - 2019/current
+  - nexus#0101 (sexydev with new username system) - 2019/current
   - nexus#7782 - 2015/termed
   - nz#9914 - 2017 alt/termed
 
