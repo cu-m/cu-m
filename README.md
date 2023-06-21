@@ -19,3 +19,10 @@
   - nz#9914 - 2017 alt/termed
 
 # ⬇️ Cheat Engine(not mine, i js think its a cool peice of software)
+  - Its just cool
+
+# Discord status;
+</h5>
+<a href="https://discord.com/users/565667519373901853">
+<img src="https://lanyard-profile-readme.vercel.app/api/565667519373901853?animated=true" height=175px/>
+</a> 
