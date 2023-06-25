@@ -9,8 +9,8 @@
 
 # funnys
 <p align = "center">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cu-m&layout=compact&theme=dark"/>
-    <img src = "https://github-readme-stats.vercel.app/api?username=cu-m&show_icons=true&theme=dracula"/>
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lhwe&layout=compact&theme=dark"/>
+    <img src = "https://github-readme-stats.vercel.app/api?username=lhwe&show_icons=true&theme=dracula"/>
 </p>
 
 # discord
