@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://count.getloli.com/get/@lhwe?theme=gelbooru" />
+</p>
 # Info
   hey, im nexus. im a 16yo dev.
 
