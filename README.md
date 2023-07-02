@@ -4,7 +4,7 @@
 </p>
 
 # Info
-  hey, im nexus. im a 16yo dev.
+  hey, im joey. im a developer. <3
 # langs
   - Lua (not the best)
   - Java (not good at it)
