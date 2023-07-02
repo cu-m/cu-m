@@ -1,6 +1,5 @@
-# views
 <p align="center">
-  <img src="https://count.getloli.com/get/@lhwe?theme=rule34" alt=":joey" />
+  <img src="https://count.getloli.com/get/@lhwe?theme=rule34" alt="views" />
 </p>
 
 # Info
