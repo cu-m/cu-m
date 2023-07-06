@@ -4,12 +4,12 @@
 </p>
 
 # Info
-  hey, im joey. im a developer. <3
+  hey, im Joey_Pineapple. im a developer.
 # langs
   - Lua (not the best)
   - Java (not good at it)
   - Python (ok at it)
-  - TypeScript (its retarded)
+  - TypeScript (i hate it)
 
 # funnys
 <p align = "center">
