@@ -1,4 +1,4 @@
-# profile views
+<p align=center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&width=435&lines=joey 😎 discord.gg/femboy" alt="im a boykisser" /></a></p>
 <p align="center">
   <img src="https://count.getloli.com/get/@lhwe?theme=rule34" alt="views" />
 </p>
