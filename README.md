@@ -13,14 +13,15 @@
 
 # funnys
 <p align = "center">
-    <img src = "https://github-readme-stats.vercel.app/api?username=lhwe&show_icons=true&theme=dracula"/>
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lhwe&layout=compact&theme=dark"/>
+    <img src = "https://github-readme-stats.vercel.app/api?username=lhwe&show_icons=true&theme=dracula"/><br>
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lhwe&layout=compact&theme=dark"/><br>
+  <img src = "http://github-readme-streak-stats.herokuapp.com?user=lhwe&theme=dark&background=000000)](https://git.io/streak-stats"/>
 </p>
 
 # discord
   - nexus#0101 (lhwe with new username system) - 2019/current
-  - nexus#7782 - 2015/termed
-  - nz#9914 - 2017 alt/termed
+  - nexus#7782 - 2015=termed
+  - nz#9914 - 2017 alt=termed
 </h5>
 <a href="https://discord.com/users/565667519373901853">
 <img src="https://lanyard-profile-readme.vercel.app/api/565667519373901853?animated=true" height=175px/>
