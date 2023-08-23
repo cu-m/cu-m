@@ -19,9 +19,9 @@
 </p>
 
 # discord
-  - nexus#0101 (lhwe with new username system) - 2019/current
-  - nexus#7782 - 2015=termed
-  - nz#9914 - 2017 alt=termed
+  - nexus#0101(lhwe) 2019-now
+  - nz#9914 - 2017-2018
+  - nexus#7782 - 2015-2017
 </h5>
 <a href="https://discord.com/users/565667519373901853">
 <img src="https://lanyard-profile-readme.vercel.app/api/565667519373901853?animated=true" height=175px/>
