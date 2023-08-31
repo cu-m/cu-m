@@ -1,22 +1,17 @@
 <p align=center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&width=435&lines=cometbot.info is based asf :3" alt="ballz" /></a></p>
 <p align="center">
-  <img src="https://count.getloli.com/get/@lhwe?theme=rule34" alt="views" />
+  <img src="https://count.getloli.com/get/@lhwe?theme=rule34" alt="views" /><br>
+  <img src="https://github.com/lhwe/yoink/blob/master/generated/overview.svg#gh-dark-mode-only" /><br>
+  <img src="https://github.com/lhwe/yoink/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </p>
 
 # Info
   hey, im Joey_Pineapple. im a developer.
+
 # langs
   - Lua (not the best)
   - Java (not good at it)
   - Python (ok at it)
-  - TypeScript (i hate it)
-
-# funnys
-<p align = "center">
-    <img src = "https://github-readme-stats.vercel.app/api?username=lhwe&show_icons=true&theme=dracula"/><br>
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lhwe&layout=compact&theme=dark"/><br>
-  <img src = "http://github-readme-streak-stats.herokuapp.com?user=lhwe&theme=dark&background=000000)](https://git.io/streak-stats"/>
-</p>
 
 # discord
   - nexus#0101(lhwe) 2019-now
