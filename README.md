@@ -1,4 +1,5 @@
-<p align=center>
+
+</p><p align=center>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&width=435&lines=  L7NEG.tk is based asf :3" alt="ballz" />
   </a>
@@ -66,3 +67,8 @@
   </a>
 </p> 
 </a>
+<p align="center">
+  -----------------------------------------------------<br>
+  #1 Wizard 101 dick rider<br>
+  <img src='https://github.com/lhwe/lhwe/assets/61995036/38c05223-2ef9-4ceb-9c7b-8e6483e6c8b2'>
+</p>
