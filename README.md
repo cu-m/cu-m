@@ -1,7 +1,7 @@
 
 </p><p align=center>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&width=435&lines=  L7NEG.tk is based asf :3" alt="ballz" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&width=435&lines=  #1 Capitalist :3" alt="ballz" />
   </a>
 </p>
 <p align="center">
