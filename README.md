@@ -1,7 +1,7 @@
 
 </p><p align=center>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&width=435&lines="  #1 Capitalist :3" alt="ballz" />
+  <a href="https://git.io/typing-svg" allign=center>
+    <img src='https://readme-typing-svg.demolab.com/?lines=Number 1 Runescape+wizard+🐈🐈🐈+:3'>
   </a>
 </p>
 <p align="center">
