@@ -67,8 +67,3 @@
   </a>
 </p> 
 </a>
-<p align="center">
-  -----------------------------------------------------<br>
-  #1 Wizard 101 dick rider<br>
-  <img src='https://github.com/lhwe/lhwe/assets/61995036/38c05223-2ef9-4ceb-9c7b-8e6483e6c8b2'>
-</p>
