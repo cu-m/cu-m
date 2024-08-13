@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@lhwe?theme=rule34" alt="Profile Views (API changed, lemme fix ts later)" />
+  <img src="https://count.nett.moe/get/lhwe/img?theme=rule34" alt="Profile Views (New API, may be down)" />
   <br>
   <img src="https://rpcrm.l7neg.tk/api/565667519373901853?idleMessage=prob%20asleep%20rn...idk&hideDiscrim=false?theme=dark&bg=809edf&showDisplayName=true&borderRadius=30px" alt="Status" />
 </p>
