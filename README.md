@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://count.nett.moe/get/lhwe/img?theme=rule34" alt="Profile Views (New API, may be down)" />
   <br>
-  <img src="https://rpcrm.l7neg.tk/api/565667519373901853?idleMessage=prob%20asleep%20rn...idk&hideDiscrim=false?theme=dark&bg=809edf&showDisplayName=true&borderRadius=30px" alt="Status" />
+  <img src="https://rpcrm.l7neg.tk/api/565667519373901853?idleMessage=prob%20asleep%20rn...idk&hideDiscrim=false?theme=dark&bg=809edf&showDisplayName=true&borderRadius=30px" alt="ill fix ts soon" />
 </p>
 
 <p align="center">
@@ -65,5 +65,7 @@
   </a>
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="40" height="40" />
+    
   </a>
+  <img align="center" src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg"/>
 </p>
