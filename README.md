@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://count.nett.moe/get/lhwe/img?theme=rule34" alt="Profile Views (New API, may be down)" />
   <br>
-  <img src="https://rpcrm.vercel.app/api/1195403744322519080?theme=light&bg=809ecf&animated=false&hideDiscrim=false&borderRadius=30px&idleMessage=prob%20goofing%20off.&hideActivity=whenNotUsed" alt="ill fix ts soon" />
+  <img src="https://rpcrm.vercel.app/api/1195403744322519080?theme=light&bg=809ecf&animated=false&hideDiscrim=false&borderRadius=30px&idleMessage=prob%20goofing%20off.&hideActivity=whenNotUsed&showDisplayName=true&animated=true" alt="ill fix ts soon" />
 </p>
 
 <p align="center">
